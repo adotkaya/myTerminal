@@ -1,6 +1,5 @@
 import React from 'react';
 import '../styles/global.css';
-import Analytics from 'vercel/analytics/react';
 import Head from 'next/head';
 
 const App = ({ Component, pageProps }) => {
@@ -27,7 +26,6 @@ const App = ({ Component, pageProps }) => {
       >
         <main className="bg-light-background dark:bg-dark-background w-full h-full p-2">
           <Component {...pageProps} inputRef={inputRef} />
-          <Analytics />
         </main>
       </div>
     </>
