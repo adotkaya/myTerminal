@@ -1,0 +1,26 @@
+{
+  "readmeUrl": "https://github.com/adotkaya/adotkaya#readme",
+  "title": "adotkaya",
+  "name": "Alkım Kaya",
+  "ascii": "adotkaya",
+  "social": {
+    "github": "adotkaya",
+    "linkedin": "alkimkaya"
+  },
+  "email": "adotkaya@gmail.com",
+  "ps1_hostname": "Adot",
+  "ps1_username": "bigfan",
+  "repo": "https://github.com/adotkaya/adotkaya.github.io",
+  "resume_url": "https://drive.google.com/file/d/1YJaXjxX-DliCsVM1QZ3bd7AWKDf8j0LR/view?usp=sharing",
+  "colors": {
+    "dark": {
+      "background": "#2F1E2E",
+      "foreground": "#F8F8F2",
+      "yellow": "#FEC418",
+      "green": "#48B685",
+      "gray": "#815BA4",
+      "blue": "#06B6EF",
+      "red": "#EF6155"
+    }
+  }
+}
