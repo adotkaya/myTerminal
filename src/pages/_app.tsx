@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/global.css';
-import { Analytics } from '@vercel/analytics/react';
+import Analytics  from '@vercel/analytics/react';
 import Head from 'next/head';
 
 const App = ({ Component, pageProps }) => {
