@@ -93,10 +93,6 @@ export const sudo = async (args?: string[]): Promise<string> => {
   return `You just got MANSUR ARK'ED! `;
 };
 
-export const egerdag = async (args?: string[]): Promise<string> => {
-  window.open('https://www.youtube.com/shorts/7wg87iTmB_E', 'blank');
-  return `You just got GOCA ADAM'ED!`
-};
 
 // Banner
 export const banner = (args?: string[]): string => {
